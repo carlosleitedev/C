@@ -1,6 +1,12 @@
 #include <stdio.h>
 
-int main(void) {
-  printf("Welcome to my Repository\n");
+int main(){
+
+  int x;
+
+  x = 10;
+ 
+  printf("%d", x);
+ 
   return 0;
 }
