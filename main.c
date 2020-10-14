@@ -2,10 +2,9 @@
 
 int main(){
 
-  int x;
+  int x = 1000000000;
+  int v = 2000;
 
-  x = 10;
- 
   printf("%d", x);
  
   return 0;
